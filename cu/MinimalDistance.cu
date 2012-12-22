@@ -1,0 +1,4 @@
+#define HUEFILTERHELPER_CUDACOMPILE
+#define HUEFILTERHELPER_DISCARD_COMPILE_CPP
+#include "MinimalDistance.cpp"
+  
